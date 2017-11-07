@@ -1,5 +1,5 @@
-# vagrant-templates
-Templates for building vagrant boxes
+# vagrant-tct
+ This is the vagrant file for TCT.  The rest of this document still needs to be updated.
 
 
 ## Table of Contents
